@@ -1,0 +1,5 @@
+comandos 
+git add
+git add.
+git status
+git initial
