@@ -2,4 +2,6 @@ comandos
 git add
 git add.
 git status
-git initial
+git init
+git remote add origin https:/odjamdd.com
+git push -u origin main
